@@ -1,22 +1,22 @@
-# Nombre del juego (<- borrar y completar)
+# Robot vs ZOmbies
 
 ## Equipo de desarrollo
 
-- Alguien
-- Persona
-- etc.
+- Melany Guiliana Salerno
+- Gabriel Ignacio Montenegro
 
 ## Capturas
 
-(agregar)
+![image](https://github.com/obj1-unahur-2024s1/TPGameIntegrador-colgamos/assets/123782670/5467ca3d-b392-4f55-b0a6-45df2f41b238)
+
 
 ## Reglas de Juego / Instrucciones
-
-(Escribirlas)
+Evitar que los zombies lleguen al inicio
+los botones son las flechas
 
 
 ## Otros
 
-- Curso/Facultad
+- Unahur/programacion con objetos1/ comision 2 Turno mañana
 - Versión de wollok
-- Una vez terminado, no tenemos problemas en que el repositorio sea público / queremos manternerlo privado
+
