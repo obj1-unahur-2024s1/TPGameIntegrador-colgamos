@@ -1,0 +1,7 @@
+import wollok.game.*
+import Juego.*
+
+program  jueguito{
+       juego.intro()
+    game.start()	  
+}
