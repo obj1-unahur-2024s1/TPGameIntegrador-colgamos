@@ -1,4 +1,4 @@
-# Robot vs ZOmbies
+# Robot vs Zombies
 
 ## Equipo de desarrollo
 
@@ -18,5 +18,5 @@ los botones son las flechas
 ## Otros
 
 - Unahur/programacion con objetos1/ comision 2 Turno mañana
-- Versión de wollok
+- Versión de wollok // 1.9.0
 
